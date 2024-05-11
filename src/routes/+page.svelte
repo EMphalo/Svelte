@@ -1,2 +1,1 @@
-
-<h1>svelteKit</h1>
+<h1>Svelte</h1>
